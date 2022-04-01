@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/calendarioGoogleFront/static/css/main.0b4e74b4.css",
-    "main.js": "/calendarioGoogleFront/static/js/main.b64bf615.js",
+    "main.js": "/calendarioGoogleFront/static/js/main.2e849d9e.js",
     "index.html": "/calendarioGoogleFront/index.html",
     "main.0b4e74b4.css.map": "/calendarioGoogleFront/static/css/main.0b4e74b4.css.map",
-    "main.b64bf615.js.map": "/calendarioGoogleFront/static/js/main.b64bf615.js.map"
+    "main.2e849d9e.js.map": "/calendarioGoogleFront/static/js/main.2e849d9e.js.map"
   },
   "entrypoints": [
     "static/css/main.0b4e74b4.css",
-    "static/js/main.b64bf615.js"
+    "static/js/main.2e849d9e.js"
   ]
 }
